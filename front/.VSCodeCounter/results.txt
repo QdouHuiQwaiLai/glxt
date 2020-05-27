@@ -1,0 +1,225 @@
+Date : 2020-05-26 20:23:31
+Directory : /Users/ldl/Desktop/lunwen/code/front
+Total : 152 files,  9171 codes, 477 comments, 819 blanks, all 10467 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JavaScript React |         58 |      5,204 |        238 |        477 |      5,919 |
+| JavaScript       |         74 |      3,096 |        213 |        231 |      3,540 |
+| Less             |         12 |        488 |          3 |         67 |        558 |
+| HTML             |          1 |        199 |          0 |         16 |        215 |
+| JSON             |          3 |        134 |         22 |          2 |        158 |
+| Markdown         |          1 |         36 |          0 |         22 |         58 |
+| Properties       |          1 |         12 |          1 |          4 |         17 |
+| XML              |          2 |          2 |          0 |          0 |          2 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |        152 |      9,171 |        477 |        819 |     10,467 |
+| config                                                                                         |          3 |        171 |         36 |          4 |        211 |
+| mock                                                                                           |          4 |        392 |          5 |         35 |        432 |
+| public                                                                                         |          1 |          1 |          0 |          0 |          1 |
+| src                                                                                            |        132 |      8,287 |        390 |        724 |      9,401 |
+| src/assets                                                                                     |          1 |          1 |          0 |          0 |          1 |
+| src/components                                                                                 |         25 |      1,128 |         82 |        144 |      1,354 |
+| src/components/Authorized                                                                      |          7 |        218 |         46 |         52 |        316 |
+| src/components/GlobalHeader                                                                    |          4 |        345 |         34 |         41 |        420 |
+| src/components/HeaderDropdown                                                                  |          2 |         22 |          0 |          6 |         28 |
+| src/components/HeaderSearch                                                                    |          2 |        112 |          0 |          6 |        118 |
+| src/components/NoticeIcon                                                                      |          4 |        318 |          0 |         28 |        346 |
+| src/components/PageLoading                                                                     |          1 |          2 |          1 |          2 |          5 |
+| src/components/SelectLang                                                                      |          2 |         67 |          0 |          8 |         75 |
+| src/e2e                                                                                        |          2 |         52 |          0 |          8 |         60 |
+| src/e2e/__mocks__                                                                              |          1 |          1 |          0 |          1 |          2 |
+| src/layouts                                                                                    |          5 |        270 |         33 |         38 |        341 |
+| src/locales                                                                                    |         28 |        764 |          0 |         32 |        796 |
+| src/locales/en-US                                                                              |          6 |        171 |          0 |          6 |        177 |
+| src/locales/pt-BR                                                                              |          6 |        174 |          0 |          6 |        180 |
+| src/locales/zh-CN                                                                              |          6 |        173 |          0 |          6 |        179 |
+| src/locales/zh-TW                                                                              |          6 |        166 |          0 |          6 |        172 |
+| src/models                                                                                     |          7 |        306 |          3 |         32 |        341 |
+| src/models/account                                                                             |          2 |         74 |          0 |          6 |         80 |
+| src/pages                                                                                      |         51 |      5,259 |        208 |        394 |      5,861 |
+| src/pages/ListTableList                                                                        |          4 |        518 |         12 |         37 |        567 |
+| src/pages/ListTableList/components                                                             |          2 |        247 |          0 |         18 |        265 |
+| src/pages/account                                                                              |          2 |        183 |          0 |         20 |        203 |
+| src/pages/dataMate                                                                             |         19 |      2,741 |        123 |        171 |      3,035 |
+| src/pages/dataMate/compare                                                                     |          7 |        641 |         31 |         53 |        725 |
+| src/pages/dataMate/compare/components                                                          |          3 |        354 |         13 |         28 |        395 |
+| src/pages/dataMate/used                                                                        |         12 |      2,100 |         92 |        118 |      2,310 |
+| src/pages/dataMate/used/components                                                             |          8 |      1,307 |         26 |         92 |      1,425 |
+| src/pages/dataOne                                                                              |          5 |        505 |         69 |         31 |        605 |
+| src/pages/dataSet                                                                              |          5 |        434 |          4 |         35 |        473 |
+| src/pages/user                                                                                 |         10 |        527 |          0 |         71 |        598 |
+| src/pages/user/login                                                                           |          9 |        471 |          0 |         65 |        536 |
+| src/pages/user/login/components                                                                |          7 |        367 |          0 |         50 |        417 |
+| src/pages/user/login/components/Login                                                          |          7 |        367 |          0 |         50 |        417 |
+| src/pages/user/register                                                                        |          1 |         56 |          0 |          6 |         62 |
+| src/services                                                                                   |          3 |         47 |          0 |         10 |         57 |
+| src/utils                                                                                      |          6 |        273 |         30 |         35 |        338 |
+| tests                                                                                          |          4 |        135 |         23 |         23 |        181 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                       | language         | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| /Users/ldl/Desktop/lunwen/code/front/.editorconfig                                             | Properties       |         12 |          1 |          4 |         17 |
+| /Users/ldl/Desktop/lunwen/code/front/.eslintrc.js                                              | JavaScript       |          8 |          0 |          1 |          9 |
+| /Users/ldl/Desktop/lunwen/code/front/.prettierrc.js                                            | JavaScript       |          4 |          0 |          2 |          6 |
+| /Users/ldl/Desktop/lunwen/code/front/.stylelintrc.js                                           | JavaScript       |          4 |          0 |          2 |          6 |
+| /Users/ldl/Desktop/lunwen/code/front/README.md                                                 | Markdown         |         36 |          0 |         22 |         58 |
+| /Users/ldl/Desktop/lunwen/code/front/config/config.js                                          | JavaScript       |        126 |         28 |          2 |        156 |
+| /Users/ldl/Desktop/lunwen/code/front/config/defaultSettings.js                                 | JavaScript       |         16 |          1 |          1 |         18 |
+| /Users/ldl/Desktop/lunwen/code/front/config/proxy.js                                           | JavaScript       |         29 |          7 |          1 |         37 |
+| /Users/ldl/Desktop/lunwen/code/front/jest.config.js                                            | JavaScript       |          9 |          0 |          1 |         10 |
+| /Users/ldl/Desktop/lunwen/code/front/jsconfig.json                                             | JSON             |          7 |          4 |          0 |         11 |
+| /Users/ldl/Desktop/lunwen/code/front/mock/listTableList.js                                     | JavaScript       |        133 |          3 |         26 |        162 |
+| /Users/ldl/Desktop/lunwen/code/front/mock/notices.js                                           | JavaScript       |        102 |          0 |          2 |        104 |
+| /Users/ldl/Desktop/lunwen/code/front/mock/route.js                                             | JavaScript       |          7 |          0 |          1 |          8 |
+| /Users/ldl/Desktop/lunwen/code/front/mock/user.js                                              | JavaScript       |        150 |          2 |          6 |        158 |
+| /Users/ldl/Desktop/lunwen/code/front/package.json                                              | JSON             |        105 |         18 |          1 |        124 |
+| /Users/ldl/Desktop/lunwen/code/front/public/pro_icon.svg                                       | XML              |          1 |          0 |          0 |          1 |
+| /Users/ldl/Desktop/lunwen/code/front/src/assets/logo.svg                                       | XML              |          1 |          0 |          0 |          1 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/Authorized.jsx                  | JavaScript React |         19 |          0 |          3 |         22 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/AuthorizedRoute.jsx             | JavaScript React |         23 |          0 |          3 |         26 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/CheckPermissions.jsx            | JavaScript React |         51 |         10 |         16 |         77 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/PromiseRender.jsx               | JavaScript React |         65 |          3 |         11 |         79 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/Secured.jsx                     | JavaScript React |         33 |         27 |         11 |         71 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/index.jsx                       | JavaScript React |          8 |          0 |          2 |         10 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/renderAuthorize.js              | JavaScript       |         19 |          6 |          6 |         31 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/AvatarDropdown.jsx            | JavaScript React |         72 |          0 |          9 |         81 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/NoticeIconView.jsx            | JavaScript React |        138 |          0 |         19 |        157 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/RightContent.jsx              | JavaScript React |         36 |         34 |          6 |         76 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/index.less                    | Less             |         99 |          0 |          7 |        106 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/HeaderDropdown/index.jsx                   | JavaScript React |          8 |          0 |          3 |         11 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/HeaderDropdown/index.less                  | Less             |         14 |          0 |          3 |         17 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/HeaderSearch/index.jsx                     | JavaScript React |         83 |          0 |          4 |         87 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/HeaderSearch/index.less                    | Less             |         29 |          0 |          2 |         31 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/NoticeList.jsx                  | JavaScript React |         91 |          0 |          5 |         96 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/NoticeList.less                 | Less             |         96 |          0 |          8 |        104 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/index.jsx                       | JavaScript React |        104 |          0 |         10 |        114 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/index.less                      | Less             |         27 |          0 |          5 |         32 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/PageLoading/index.jsx                      | JavaScript React |          2 |          1 |          2 |          5 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/SelectLang/index.jsx                       | JavaScript React |         45 |          0 |          5 |         50 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/SelectLang/index.less                      | Less             |         22 |          0 |          3 |         25 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/full.js                                    | JavaScript       |          1 |          0 |          0 |          1 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/line.js                                    | JavaScript       |         10 |          1 |          1 |         12 |
+| /Users/ldl/Desktop/lunwen/code/front/src/components/province.js                                | JavaScript       |         33 |          0 |          0 |         33 |
+| /Users/ldl/Desktop/lunwen/code/front/src/e2e/__mocks__/antd-pro-merge-less.js                  | JavaScript       |          1 |          0 |          1 |          2 |
+| /Users/ldl/Desktop/lunwen/code/front/src/e2e/baseLayout.e2e.js                                 | JavaScript       |         51 |          0 |          7 |         58 |
+| /Users/ldl/Desktop/lunwen/code/front/src/global.jsx                                            | JavaScript React |         85 |          4 |         14 |        103 |
+| /Users/ldl/Desktop/lunwen/code/front/src/global.less                                           | Less             |         45 |          1 |          9 |         55 |
+| /Users/ldl/Desktop/lunwen/code/front/src/layouts/BasicLayout.jsx                               | JavaScript React |        111 |         32 |         10 |        153 |
+| /Users/ldl/Desktop/lunwen/code/front/src/layouts/BlankLayout.jsx                               | JavaScript React |          3 |          0 |          3 |          6 |
+| /Users/ldl/Desktop/lunwen/code/front/src/layouts/SecurityLayout.jsx                            | JavaScript React |         39 |          1 |         10 |         50 |
+| /Users/ldl/Desktop/lunwen/code/front/src/layouts/UserLayout.jsx                                | JavaScript React |         56 |          0 |          4 |         60 |
+| /Users/ldl/Desktop/lunwen/code/front/src/layouts/UserLayout.less                               | Less             |         61 |          0 |         11 |         72 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/en-US.js                                      | JavaScript       |         21 |          0 |          2 |         23 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/component.js                            | JavaScript       |          5 |          0 |          1 |          6 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/globalHeader.js                         | JavaScript       |         17 |          0 |          1 |         18 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/menu.js                                 | JavaScript       |         52 |          0 |          1 |         53 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/pwa.js                                  | JavaScript       |          6 |          0 |          1 |          7 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/settingDrawer.js                        | JavaScript       |         31 |          0 |          1 |         32 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/settings.js                             | JavaScript       |         60 |          0 |          1 |         61 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR.js                                      | JavaScript       |         19 |          0 |          2 |         21 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/component.js                            | JavaScript       |          5 |          0 |          1 |          6 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/globalHeader.js                         | JavaScript       |         18 |          0 |          1 |         19 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/menu.js                                 | JavaScript       |         52 |          0 |          1 |         53 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/pwa.js                                  | JavaScript       |          7 |          0 |          1 |          8 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/settingDrawer.js                        | JavaScript       |         32 |          0 |          1 |         33 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/settings.js                             | JavaScript       |         60 |          0 |          1 |         61 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN.js                                      | JavaScript       |         21 |          0 |          2 |         23 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/component.js                            | JavaScript       |          5 |          0 |          1 |          6 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/globalHeader.js                         | JavaScript       |         17 |          0 |          1 |         18 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/menu.js                                 | JavaScript       |         59 |          0 |          1 |         60 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/pwa.js                                  | JavaScript       |          6 |          0 |          1 |          7 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/settingDrawer.js                        | JavaScript       |         31 |          0 |          1 |         32 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/settings.js                             | JavaScript       |         55 |          0 |          1 |         56 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW.js                                      | JavaScript       |         19 |          0 |          2 |         21 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/component.js                            | JavaScript       |          5 |          0 |          1 |          6 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/globalHeader.js                         | JavaScript       |         17 |          0 |          1 |         18 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/menu.js                                 | JavaScript       |         52 |          0 |          1 |         53 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/pwa.js                                  | JavaScript       |          6 |          0 |          1 |          7 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/settingDrawer.js                        | JavaScript       |         31 |          0 |          1 |         32 |
+| /Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/settings.js                             | JavaScript       |         55 |          0 |          1 |         56 |
+| /Users/ldl/Desktop/lunwen/code/front/src/manifest.json                                         | JSON             |         22 |          0 |          1 |         23 |
+| /Users/ldl/Desktop/lunwen/code/front/src/models/account/change.js                              | JavaScript       |         23 |          0 |          2 |         25 |
+| /Users/ldl/Desktop/lunwen/code/front/src/models/account/people.js                              | JavaScript       |         51 |          0 |          4 |         55 |
+| /Users/ldl/Desktop/lunwen/code/front/src/models/dataset.js                                     | JavaScript       |          0 |          0 |          1 |          1 |
+| /Users/ldl/Desktop/lunwen/code/front/src/models/global.js                                      | JavaScript       |        107 |          1 |          8 |        116 |
+| /Users/ldl/Desktop/lunwen/code/front/src/models/login.js                                       | JavaScript       |         59 |          2 |          7 |         68 |
+| /Users/ldl/Desktop/lunwen/code/front/src/models/setting.js                                     | JavaScript       |         22 |          0 |          6 |         28 |
+| /Users/ldl/Desktop/lunwen/code/front/src/models/user.js                                        | JavaScript       |         44 |          0 |          4 |         48 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/404.jsx                                         | JavaScript React |         16 |          0 |          3 |         19 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/Admin.jsx                                       | JavaScript React |         40 |          0 |          2 |         42 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/Authorized.jsx                                  | JavaScript React |         29 |          0 |          3 |         32 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/components/CreateForm.jsx         | JavaScript React |         17 |          0 |          3 |         20 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/components/UpdateForm.jsx         | JavaScript React |        230 |          0 |         15 |        245 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/index.jsx                         | JavaScript React |        246 |         12 |         17 |        275 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/service.js                        | JavaScript       |         25 |          0 |          2 |         27 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/Welcome.jsx                                     | JavaScript React |         60 |          0 |          3 |         63 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/Welcome.less                                    | Less             |          7 |          0 |          2 |          9 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/account/change.jsx                              | JavaScript React |         69 |          0 |          7 |         76 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/account/people.jsx                              | JavaScript React |        114 |          0 |         13 |        127 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/components/schoolSelect.jsx    | JavaScript React |         20 |          0 |          4 |         24 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/components/selectItem.jsx      | JavaScript React |         74 |          3 |         11 |         88 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/components/treeSelect.jsx      | JavaScript React |        260 |         10 |         13 |        283 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/index.jsx                      | JavaScript React |        132 |          2 |         18 |        152 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/model.js                       | JavaScript       |        126 |         16 |          3 |        145 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/service.js                     | JavaScript       |         10 |          0 |          2 |         12 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/util.js                        | JavaScript       |         19 |          0 |          2 |         21 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/bar.jsx                | JavaScript React |        140 |          5 |         15 |        160 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/fan.jsx                | JavaScript React |        167 |          3 |         12 |        182 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/inter.jsx              | JavaScript React |        200 |          5 |         17 |        222 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/map.jsx                | JavaScript React |        116 |          3 |         11 |        130 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/ring.jsx               | JavaScript React |        332 |          1 |         12 |        345 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/ringCoditionSelect.jsx | JavaScript React |         45 |          0 |          5 |         50 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/topSelect.jsx          | JavaScript React |         60 |          0 |          8 |         68 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/treeSelect.jsx         | JavaScript React |        247 |          9 |         12 |        268 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/index.jsx                         | JavaScript React |        179 |          0 |         14 |        193 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/model.js                          | JavaScript       |        579 |         66 |          7 |        652 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/service.js                        | JavaScript       |         16 |          0 |          3 |         19 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/util.js                           | JavaScript       |         19 |          0 |          2 |         21 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/index.jsx                               | JavaScript React |        396 |         68 |         18 |        482 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/selectSchool.jsx                        | JavaScript React |         19 |          0 |          2 |         21 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/selected.jsx                            | JavaScript React |         19 |          0 |          2 |         21 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/service.js                              | JavaScript       |         21 |          0 |          4 |         25 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/updateFrom.jsx                          | JavaScript React |         50 |          1 |          5 |         56 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/createForm.jsx                          | JavaScript React |         17 |          0 |          2 |         19 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/index.jsx                               | JavaScript React |        291 |          2 |         18 |        311 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/selectSchool.jsx                        | JavaScript React |         39 |          1 |          2 |         42 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/service.js                              | JavaScript       |         32 |          0 |          8 |         40 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/tio.jsx                                 | JavaScript React |         55 |          1 |          5 |         61 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/document.ejs                                    | HTML             |        199 |          0 |         16 |        215 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginContext.jsx    | JavaScript React |          3 |          0 |          2 |          5 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginItem.jsx       | JavaScript React |        120 |          0 |         20 |        140 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginSubmit.jsx     | JavaScript React |         14 |          0 |          4 |         18 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginTab.jsx        | JavaScript React |         29 |          0 |          7 |         36 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/index.jsx           | JavaScript React |         89 |          0 |          6 |         95 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/index.less          | Less             |         41 |          0 |          9 |         50 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/map.jsx             | JavaScript React |         71 |          0 |          2 |         73 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/index.jsx                            | JavaScript React |         71 |          0 |          8 |         79 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/style.less                           | Less             |         33 |          0 |          7 |         40 |
+| /Users/ldl/Desktop/lunwen/code/front/src/pages/user/register/index.jsx                         | JavaScript React |         56 |          0 |          6 |         62 |
+| /Users/ldl/Desktop/lunwen/code/front/src/service-worker.js                                     | JavaScript       |         35 |         29 |          7 |         71 |
+| /Users/ldl/Desktop/lunwen/code/front/src/services/change.js                                    | JavaScript       |          0 |          0 |          1 |          1 |
+| /Users/ldl/Desktop/lunwen/code/front/src/services/login.js                                     | JavaScript       |         16 |          0 |          4 |         20 |
+| /Users/ldl/Desktop/lunwen/code/front/src/services/user.js                                      | JavaScript       |         31 |          0 |          5 |         36 |
+| /Users/ldl/Desktop/lunwen/code/front/src/utils/Authorized.js                                   | JavaScript       |          9 |          6 |          5 |         20 |
+| /Users/ldl/Desktop/lunwen/code/front/src/utils/authority.js                                    | JavaScript       |         25 |          1 |          8 |         34 |
+| /Users/ldl/Desktop/lunwen/code/front/src/utils/request.js                                      | JavaScript       |         66 |         14 |         10 |         90 |
+| /Users/ldl/Desktop/lunwen/code/front/src/utils/utils.js                                        | JavaScript       |         44 |          7 |          9 |         60 |
+| /Users/ldl/Desktop/lunwen/code/front/src/utils/utils.less                                      | Less             |         14 |          2 |          1 |         17 |
+| /Users/ldl/Desktop/lunwen/code/front/src/utils/utils.test.js                                   | JavaScript       |        115 |          0 |          2 |        117 |
+| /Users/ldl/Desktop/lunwen/code/front/tests/PuppeteerEnvironment.js                             | JavaScript       |         30 |          4 |          8 |         42 |
+| /Users/ldl/Desktop/lunwen/code/front/tests/beforeTest.js                                       | JavaScript       |         29 |          6 |          5 |         40 |
+| /Users/ldl/Desktop/lunwen/code/front/tests/getBrowser.js                                       | JavaScript       |         37 |          5 |          4 |         46 |
+| /Users/ldl/Desktop/lunwen/code/front/tests/run-tests.js                                        | JavaScript       |         39 |          8 |          6 |         53 |
+| Total                                                                                          |                  |      9,171 |        477 |        819 |     10,467 |
++------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

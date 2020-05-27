@@ -1,0 +1,154 @@
+"filename", "language", "JSON", "JavaScript", "Properties", "XML", "Markdown", "Less", "JavaScript React", "HTML", "comment", "blank", "total"
+"/Users/ldl/Desktop/lunwen/code/front/.editorconfig", "Properties", 0, 0, 12, 0, 0, 0, 0, 0, 1, 4, 17
+"/Users/ldl/Desktop/lunwen/code/front/.eslintrc.js", "JavaScript", 0, 8, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"/Users/ldl/Desktop/lunwen/code/front/.prettierrc.js", "JavaScript", 0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/ldl/Desktop/lunwen/code/front/.stylelintrc.js", "JavaScript", 0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/ldl/Desktop/lunwen/code/front/README.md", "Markdown", 0, 0, 0, 0, 36, 0, 0, 0, 0, 22, 58
+"/Users/ldl/Desktop/lunwen/code/front/config/config.js", "JavaScript", 0, 126, 0, 0, 0, 0, 0, 0, 28, 2, 156
+"/Users/ldl/Desktop/lunwen/code/front/config/defaultSettings.js", "JavaScript", 0, 16, 0, 0, 0, 0, 0, 0, 1, 1, 18
+"/Users/ldl/Desktop/lunwen/code/front/config/proxy.js", "JavaScript", 0, 29, 0, 0, 0, 0, 0, 0, 7, 1, 37
+"/Users/ldl/Desktop/lunwen/code/front/jest.config.js", "JavaScript", 0, 9, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"/Users/ldl/Desktop/lunwen/code/front/jsconfig.json", "JSON", 7, 0, 0, 0, 0, 0, 0, 0, 4, 0, 11
+"/Users/ldl/Desktop/lunwen/code/front/mock/listTableList.js", "JavaScript", 0, 133, 0, 0, 0, 0, 0, 0, 3, 26, 162
+"/Users/ldl/Desktop/lunwen/code/front/mock/notices.js", "JavaScript", 0, 102, 0, 0, 0, 0, 0, 0, 0, 2, 104
+"/Users/ldl/Desktop/lunwen/code/front/mock/route.js", "JavaScript", 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"/Users/ldl/Desktop/lunwen/code/front/mock/user.js", "JavaScript", 0, 150, 0, 0, 0, 0, 0, 0, 2, 6, 158
+"/Users/ldl/Desktop/lunwen/code/front/package.json", "JSON", 105, 0, 0, 0, 0, 0, 0, 0, 18, 1, 124
+"/Users/ldl/Desktop/lunwen/code/front/public/pro_icon.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/ldl/Desktop/lunwen/code/front/src/assets/logo.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/Authorized.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 19, 0, 0, 3, 22
+"/Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/AuthorizedRoute.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 23, 0, 0, 3, 26
+"/Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/CheckPermissions.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 51, 0, 10, 16, 77
+"/Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/PromiseRender.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 65, 0, 3, 11, 79
+"/Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/Secured.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 33, 0, 27, 11, 71
+"/Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 8, 0, 0, 2, 10
+"/Users/ldl/Desktop/lunwen/code/front/src/components/Authorized/renderAuthorize.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 6, 6, 31
+"/Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/AvatarDropdown.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 72, 0, 0, 9, 81
+"/Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/NoticeIconView.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 138, 0, 0, 19, 157
+"/Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/RightContent.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 36, 0, 34, 6, 76
+"/Users/ldl/Desktop/lunwen/code/front/src/components/GlobalHeader/index.less", "Less", 0, 0, 0, 0, 0, 99, 0, 0, 0, 7, 106
+"/Users/ldl/Desktop/lunwen/code/front/src/components/HeaderDropdown/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 8, 0, 0, 3, 11
+"/Users/ldl/Desktop/lunwen/code/front/src/components/HeaderDropdown/index.less", "Less", 0, 0, 0, 0, 0, 14, 0, 0, 0, 3, 17
+"/Users/ldl/Desktop/lunwen/code/front/src/components/HeaderSearch/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 83, 0, 0, 4, 87
+"/Users/ldl/Desktop/lunwen/code/front/src/components/HeaderSearch/index.less", "Less", 0, 0, 0, 0, 0, 29, 0, 0, 0, 2, 31
+"/Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/NoticeList.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 91, 0, 0, 5, 96
+"/Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/NoticeList.less", "Less", 0, 0, 0, 0, 0, 96, 0, 0, 0, 8, 104
+"/Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 104, 0, 0, 10, 114
+"/Users/ldl/Desktop/lunwen/code/front/src/components/NoticeIcon/index.less", "Less", 0, 0, 0, 0, 0, 27, 0, 0, 0, 5, 32
+"/Users/ldl/Desktop/lunwen/code/front/src/components/PageLoading/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 2, 0, 1, 2, 5
+"/Users/ldl/Desktop/lunwen/code/front/src/components/SelectLang/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 45, 0, 0, 5, 50
+"/Users/ldl/Desktop/lunwen/code/front/src/components/SelectLang/index.less", "Less", 0, 0, 0, 0, 0, 22, 0, 0, 0, 3, 25
+"/Users/ldl/Desktop/lunwen/code/front/src/components/full.js", "JavaScript", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/ldl/Desktop/lunwen/code/front/src/components/line.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 0, 1, 1, 12
+"/Users/ldl/Desktop/lunwen/code/front/src/components/province.js", "JavaScript", 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 33
+"/Users/ldl/Desktop/lunwen/code/front/src/e2e/__mocks__/antd-pro-merge-less.js", "JavaScript", 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/ldl/Desktop/lunwen/code/front/src/e2e/baseLayout.e2e.js", "JavaScript", 0, 51, 0, 0, 0, 0, 0, 0, 0, 7, 58
+"/Users/ldl/Desktop/lunwen/code/front/src/global.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 85, 0, 4, 14, 103
+"/Users/ldl/Desktop/lunwen/code/front/src/global.less", "Less", 0, 0, 0, 0, 0, 45, 0, 0, 1, 9, 55
+"/Users/ldl/Desktop/lunwen/code/front/src/layouts/BasicLayout.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 111, 0, 32, 10, 153
+"/Users/ldl/Desktop/lunwen/code/front/src/layouts/BlankLayout.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 6
+"/Users/ldl/Desktop/lunwen/code/front/src/layouts/SecurityLayout.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 39, 0, 1, 10, 50
+"/Users/ldl/Desktop/lunwen/code/front/src/layouts/UserLayout.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 56, 0, 0, 4, 60
+"/Users/ldl/Desktop/lunwen/code/front/src/layouts/UserLayout.less", "Less", 0, 0, 0, 0, 0, 61, 0, 0, 0, 11, 72
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/en-US.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/component.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/globalHeader.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/menu.js", "JavaScript", 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/pwa.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/settingDrawer.js", "JavaScript", 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/en-US/settings.js", "JavaScript", 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/component.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/globalHeader.js", "JavaScript", 0, 18, 0, 0, 0, 0, 0, 0, 0, 1, 19
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/menu.js", "JavaScript", 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/pwa.js", "JavaScript", 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/settingDrawer.js", "JavaScript", 0, 32, 0, 0, 0, 0, 0, 0, 0, 1, 33
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/pt-BR/settings.js", "JavaScript", 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/component.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/globalHeader.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/menu.js", "JavaScript", 0, 59, 0, 0, 0, 0, 0, 0, 0, 1, 60
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/pwa.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/settingDrawer.js", "JavaScript", 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-CN/settings.js", "JavaScript", 0, 55, 0, 0, 0, 0, 0, 0, 0, 1, 56
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/component.js", "JavaScript", 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/globalHeader.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/menu.js", "JavaScript", 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/pwa.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/settingDrawer.js", "JavaScript", 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"/Users/ldl/Desktop/lunwen/code/front/src/locales/zh-TW/settings.js", "JavaScript", 0, 55, 0, 0, 0, 0, 0, 0, 0, 1, 56
+"/Users/ldl/Desktop/lunwen/code/front/src/manifest.json", "JSON", 22, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"/Users/ldl/Desktop/lunwen/code/front/src/models/account/change.js", "JavaScript", 0, 23, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"/Users/ldl/Desktop/lunwen/code/front/src/models/account/people.js", "JavaScript", 0, 51, 0, 0, 0, 0, 0, 0, 0, 4, 55
+"/Users/ldl/Desktop/lunwen/code/front/src/models/dataset.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/ldl/Desktop/lunwen/code/front/src/models/global.js", "JavaScript", 0, 107, 0, 0, 0, 0, 0, 0, 1, 8, 116
+"/Users/ldl/Desktop/lunwen/code/front/src/models/login.js", "JavaScript", 0, 59, 0, 0, 0, 0, 0, 0, 2, 7, 68
+"/Users/ldl/Desktop/lunwen/code/front/src/models/setting.js", "JavaScript", 0, 22, 0, 0, 0, 0, 0, 0, 0, 6, 28
+"/Users/ldl/Desktop/lunwen/code/front/src/models/user.js", "JavaScript", 0, 44, 0, 0, 0, 0, 0, 0, 0, 4, 48
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/404.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 16, 0, 0, 3, 19
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/Admin.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 40, 0, 0, 2, 42
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/Authorized.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 29, 0, 0, 3, 32
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/components/CreateForm.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 17, 0, 0, 3, 20
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/components/UpdateForm.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 230, 0, 0, 15, 245
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 246, 0, 12, 17, 275
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/ListTableList/service.js", "JavaScript", 0, 25, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/Welcome.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 60, 0, 0, 3, 63
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/Welcome.less", "Less", 0, 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/account/change.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 69, 0, 0, 7, 76
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/account/people.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 114, 0, 0, 13, 127
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/components/schoolSelect.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 20, 0, 0, 4, 24
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/components/selectItem.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 74, 0, 3, 11, 88
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/components/treeSelect.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 260, 0, 10, 13, 283
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 132, 0, 2, 18, 152
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/model.js", "JavaScript", 0, 126, 0, 0, 0, 0, 0, 0, 16, 3, 145
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/service.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/compare/util.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/bar.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 140, 0, 5, 15, 160
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/fan.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 167, 0, 3, 12, 182
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/inter.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 200, 0, 5, 17, 222
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/map.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 116, 0, 3, 11, 130
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/ring.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 332, 0, 1, 12, 345
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/ringCoditionSelect.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 45, 0, 0, 5, 50
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/topSelect.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 60, 0, 0, 8, 68
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/components/treeSelect.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 247, 0, 9, 12, 268
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 179, 0, 0, 14, 193
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/model.js", "JavaScript", 0, 579, 0, 0, 0, 0, 0, 0, 66, 7, 652
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/service.js", "JavaScript", 0, 16, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataMate/used/util.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 396, 0, 68, 18, 482
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/selectSchool.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 19, 0, 0, 2, 21
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/selected.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 19, 0, 0, 2, 21
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/service.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 4, 25
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataOne/updateFrom.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 50, 0, 1, 5, 56
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/createForm.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 17, 0, 0, 2, 19
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 291, 0, 2, 18, 311
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/selectSchool.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 39, 0, 1, 2, 42
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/service.js", "JavaScript", 0, 32, 0, 0, 0, 0, 0, 0, 0, 8, 40
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/dataSet/tio.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 55, 0, 1, 5, 61
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/document.ejs", "HTML", 0, 0, 0, 0, 0, 0, 0, 199, 0, 16, 215
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginContext.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 3, 0, 0, 2, 5
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginItem.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 120, 0, 0, 20, 140
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginSubmit.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 14, 0, 0, 4, 18
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/LoginTab.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 29, 0, 0, 7, 36
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 89, 0, 0, 6, 95
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/index.less", "Less", 0, 0, 0, 0, 0, 41, 0, 0, 0, 9, 50
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/components/Login/map.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 71, 0, 0, 2, 73
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 71, 0, 0, 8, 79
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/login/style.less", "Less", 0, 0, 0, 0, 0, 33, 0, 0, 0, 7, 40
+"/Users/ldl/Desktop/lunwen/code/front/src/pages/user/register/index.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 56, 0, 0, 6, 62
+"/Users/ldl/Desktop/lunwen/code/front/src/service-worker.js", "JavaScript", 0, 35, 0, 0, 0, 0, 0, 0, 29, 7, 71
+"/Users/ldl/Desktop/lunwen/code/front/src/services/change.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/ldl/Desktop/lunwen/code/front/src/services/login.js", "JavaScript", 0, 16, 0, 0, 0, 0, 0, 0, 0, 4, 20
+"/Users/ldl/Desktop/lunwen/code/front/src/services/user.js", "JavaScript", 0, 31, 0, 0, 0, 0, 0, 0, 0, 5, 36
+"/Users/ldl/Desktop/lunwen/code/front/src/utils/Authorized.js", "JavaScript", 0, 9, 0, 0, 0, 0, 0, 0, 6, 5, 20
+"/Users/ldl/Desktop/lunwen/code/front/src/utils/authority.js", "JavaScript", 0, 25, 0, 0, 0, 0, 0, 0, 1, 8, 34
+"/Users/ldl/Desktop/lunwen/code/front/src/utils/request.js", "JavaScript", 0, 66, 0, 0, 0, 0, 0, 0, 14, 10, 90
+"/Users/ldl/Desktop/lunwen/code/front/src/utils/utils.js", "JavaScript", 0, 44, 0, 0, 0, 0, 0, 0, 7, 9, 60
+"/Users/ldl/Desktop/lunwen/code/front/src/utils/utils.less", "Less", 0, 0, 0, 0, 0, 14, 0, 0, 2, 1, 17
+"/Users/ldl/Desktop/lunwen/code/front/src/utils/utils.test.js", "JavaScript", 0, 115, 0, 0, 0, 0, 0, 0, 0, 2, 117
+"/Users/ldl/Desktop/lunwen/code/front/tests/PuppeteerEnvironment.js", "JavaScript", 0, 30, 0, 0, 0, 0, 0, 0, 4, 8, 42
+"/Users/ldl/Desktop/lunwen/code/front/tests/beforeTest.js", "JavaScript", 0, 29, 0, 0, 0, 0, 0, 0, 6, 5, 40
+"/Users/ldl/Desktop/lunwen/code/front/tests/getBrowser.js", "JavaScript", 0, 37, 0, 0, 0, 0, 0, 0, 5, 4, 46
+"/Users/ldl/Desktop/lunwen/code/front/tests/run-tests.js", "JavaScript", 0, 39, 0, 0, 0, 0, 0, 0, 8, 6, 53
+"Total", "-", 134, 3096, 12, 2, 36, 488, 5204, 199, 477, 819, 10467
