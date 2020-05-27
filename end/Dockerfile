@@ -12,7 +12,7 @@ RUN go get github.com/shirou/gopsutil
 RUN go get github.com/spf13/pflag
 RUN go get github.com/spf13/viper
 RUN go get go.mongodb.org/mongo-driver/mongo
-RUN go get golang.org/x/crypto/bcrypt
+#RUN go get golang.org/x/crypto/bcrypt
 RUN go build main.go
 
 EXPOSE 8080
