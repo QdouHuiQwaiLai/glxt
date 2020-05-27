@@ -66,7 +66,7 @@ func Parse(tokenString string,) (*Context, error) {
 func ParseRequest(c *gin.Context) (*Context, error) {
 	header := c.Request.Header.Get("Authorization")
 
-	// Load the jwt secret from configs
+	// Load the jwt secret from config
 
 	if len(header) == 0 {
 		return &Context{}, ErrMissingHeader
@@ -80,7 +80,7 @@ func ParseRequest(c *gin.Context) (*Context, error) {
 
 // Sign signs the context with the specified secret.
 func Sign(ctx *gin.Context, c Context,) (tokenString string, err error) {
-	// Load the jwt secret from the Gin configs if the secret isn't specified.
+	// Load the jwt secret from the Gin config if the secret isn't specified.
 	secret := viper.GetString("jwt_secret")
 
 	// The token content.

@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 	
-	"./configs"
+	"./config"
 	"./router"
 	
 	"github.com/gin-gonic/gin"
@@ -15,14 +15,14 @@ import (
 )
 
 var (
-	cfg = pflag.StringP("configs", "c", "", "apiserver configs file path.")
+	cfg = pflag.StringP("config", "c", "", "apiserver config file path.")
 )
 
 func main() {
 	pflag.Parse()
 	
-	// init configs
-	if err := configs.Init(*cfg); err != nil {
+	// init config
+	if err := config.Init(*cfg); err != nil {
 		panic(err)
 	}
 	

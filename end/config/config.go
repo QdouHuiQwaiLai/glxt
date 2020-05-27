@@ -1,4 +1,4 @@
-package configs
+package config
 
 import (
 	"strings"
@@ -36,7 +36,7 @@ func (c *Config) initConfig() error {
 		viper.SetConfigFile(c.Name) // 如果指定了配置文件，则解析指定的配置文件
 	} else {
 		viper.AddConfigPath("conf") // 如果没有指定配置文件，则解析默认的配置文件
-		viper.SetConfigName("configs")
+		viper.SetConfigName("config")
 	}
 	viper.SetConfigType("yaml")     // 设置配置文件格式为YAML
 	viper.AutomaticEnv()            // 读取匹配的环境变量

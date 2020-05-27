@@ -88,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build up.go" />
       </list>
@@ -107,30 +107,30 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="507" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.825@0.23.1440.825" timestamp="1590590541197" />
-    <state width="1281" height="293" key="GridCell.Tab.0.bottom" timestamp="1590586226684">
+    <state width="1231" height="311" key="GridCell.Tab.0.bottom" timestamp="1590592850303">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1206" height="206" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1589022164301" />
     <state width="1206" height="206" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588945977163" />
-    <state width="1281" height="293" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1590586226684" />
-    <state width="1281" height="293" key="GridCell.Tab.0.center" timestamp="1590586226683">
+    <state width="1231" height="311" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1590592850303" />
+    <state width="1231" height="311" key="GridCell.Tab.0.center" timestamp="1590592850302">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1206" height="206" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1589022164301" />
     <state width="1206" height="206" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588945977163" />
-    <state width="1281" height="293" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1590586226683" />
-    <state width="1281" height="293" key="GridCell.Tab.0.left" timestamp="1590586226682">
+    <state width="1231" height="311" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1590592850302" />
+    <state width="1231" height="311" key="GridCell.Tab.0.left" timestamp="1590592850302">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1206" height="206" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1589022164296" />
     <state width="1206" height="206" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588945977162" />
-    <state width="1281" height="293" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1590586226682" />
-    <state width="1281" height="293" key="GridCell.Tab.0.right" timestamp="1590586226684">
+    <state width="1231" height="311" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1590592850302" />
+    <state width="1231" height="311" key="GridCell.Tab.0.right" timestamp="1590592850303">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1206" height="206" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1589022164301" />
     <state width="1206" height="206" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588945977163" />
-    <state width="1281" height="293" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1590586226684" />
+    <state width="1231" height="311" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1590592850303" />
     <state width="1533" height="263" key="GridCell.Tab.1.bottom" timestamp="1588510842465">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
