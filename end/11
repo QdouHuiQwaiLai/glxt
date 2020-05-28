@@ -1,9 +1,0 @@
-github.com/dgrijalva/jwt-go
-github.com/fsnotify/fsnotify
-github.com/gin-gonic/gin
-github.com/lexkong/log
-github.com/shirou/gopsutil
-github.com/spf13/pflag
-github.com/spf13/viper
-go.mongodb.org/mongo-driver/mongo
-golang.org/x/crypto

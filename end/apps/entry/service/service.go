@@ -83,7 +83,7 @@ func GetStudentsImportTask(sId string, year int, filePath string) (dto.StudentsI
 	// 发送请求
 	client := &http.Client{}
 	url := fmt.Sprintf("%s?id=%s&year=%s&path=%s",
-		"http://127.0.0.1:8000/importStudents", sId, strconv.Itoa(year), filePath)
+		"http://imtepr:8000/importStudents", sId, strconv.Itoa(year), filePath)
 	resp, err := client.Get(url, ); if err != nil {
 		return result, err
 	}
@@ -162,7 +162,7 @@ func GetImportStudentsProgress(tId string) (dto.ImportStudentsProgress, error) {
 	// 发送请求
 	client := &http.Client{}
 	url := fmt.Sprintf("%s?id=%s",
-		"http://127.0.0.1:8000/getimportstudentsprogress", tId,)
+		"http://imtepr:8000/getimportstudentsprogress", tId,)
 	resp, err := client.Get(url, ); if err != nil {
 		return result, err
 	}

@@ -7,6 +7,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
@@ -127,7 +141,7 @@
       <workItem from="1590233938675" duration="992000" />
       <workItem from="1590302323199" duration="9000" />
       <workItem from="1590395654868" duration="1494000" />
-      <workItem from="1590585405800" duration="469000" />
+      <workItem from="1590585405800" duration="5404000" />
     </task>
     <servers />
   </component>
@@ -139,26 +153,30 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="891" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1588337496806" />
-    <state width="699" height="316" key="GridCell.Tab.0.bottom" timestamp="1590585416211">
+    <state width="610" height="220" key="GridCell.Tab.0.bottom" timestamp="1590649146645">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
-    <state width="699" height="316" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1590585416211" />
-    <state width="699" height="316" key="GridCell.Tab.0.center" timestamp="1590585416210">
+    <state width="610" height="220" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1590649146645" />
+    <state width="610" height="220" key="GridCell.Tab.0.center" timestamp="1590649146644">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
-    <state width="699" height="316" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1590585416210" />
-    <state width="699" height="316" key="GridCell.Tab.0.left" timestamp="1590585416210">
+    <state width="610" height="220" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1590649146644" />
+    <state width="610" height="220" key="GridCell.Tab.0.left" timestamp="1590649146643">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
-    <state width="699" height="316" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1590585416210" />
-    <state width="699" height="316" key="GridCell.Tab.0.right" timestamp="1590585416211">
+    <state width="610" height="220" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1590649146643" />
+    <state width="610" height="220" key="GridCell.Tab.0.right" timestamp="1590649146645">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
-    <state width="699" height="316" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1590585416211" />
+    <state width="610" height="220" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1590649146645" />
+    <state width="234" height="498" key="HiddenNamespacesPopup" timestamp="1590644565927">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="234" height="498" key="HiddenNamespacesPopup/0.23.1440.825@0.23.1440.825" timestamp="1590644565927" />
     <state x="733" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1590302324053">
       <screen x="0" y="23" width="1440" height="825" />
     </state>

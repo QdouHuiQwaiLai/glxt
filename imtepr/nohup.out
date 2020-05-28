@@ -1,0 +1,35 @@
+[2020-05-28 14:33:07,159: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error 8 connecting to redis:6379. nodename nor servname provided, or not known..
+Trying again in 2.00 seconds... (1/100)
+
+[2020-05-28 14:33:09,169: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error 8 connecting to redis:6379. nodename nor servname provided, or not known..
+Trying again in 4.00 seconds... (2/100)
+
+[2020-05-28 14:33:13,185: ERROR/MainProcess] consumer: Cannot connect to redis://redis:6379/0: Error 8 connecting to redis:6379. nodename nor servname provided, or not known..
+Trying again in 6.00 seconds... (3/100)
+
+
+worker: Hitting Ctrl+C again will terminate all running tasks!
+
+worker: Warm shutdown (MainProcess)
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@lfllll.local v4.4.2 (cliffs)
+--- ***** ----- 
+-- ******* ---- Darwin-18.6.0-x86_64-i386-64bit 2020-05-28 14:33:06
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         imtepr:0x1109fbb10
+- ** ---------- .> transport:   redis://redis:6379/0
+- ** ---------- .> results:     
+- *** --- * --- .> concurrency: 12 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app.tasks.taskStudentsImport
+  . app.tasks.task_add
+

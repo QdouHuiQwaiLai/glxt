@@ -21,7 +21,7 @@ def taskStudentsImport(id, year, path, taskFile):
   # time.sleep(50)
   try:
     studentList = []  # 分块处理学生数据
-    for studentsPart in parseJson(path, id, year, taskFile):
+    for studentsPart in parseJson(f'/temp/{path}', id, year, taskFile):
       studentList.append(studentsPart)
     # 多线程插入更新
     pool_obj = pool(5)
@@ -57,7 +57,7 @@ def parseJson(path, id, year, taskFile):
 
 
 def insertStudentMongo(students):
-  client = pymongo.MongoClient('mongodb://localhost:27017/')
+  client = pymongo.MongoClient('mongodb://mongo:27017/')
   col = client["test"]["student"]
   for student in students:
     col.update_one({'originalId': student['originalId'], 'sid': student['sid'], 'year': student['year']}, {"$set": student}, True)
