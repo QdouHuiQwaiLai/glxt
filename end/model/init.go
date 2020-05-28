@@ -9,7 +9,7 @@ import (
 
 
 func GetDb() (*mongo.Client, error) {
-	client, err := mongo.Connect(context.Background(), options.Client().ApplyURI("mongodb://localhost:27017"))
+	client, err := mongo.Connect(context.Background(), options.Client().ApplyURI("mongodb://127.0.0.1:27017"))
 	if err != nil {
 		fmt.Println(err)
 	}
