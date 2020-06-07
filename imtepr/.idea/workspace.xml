@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98403987-c8f4-40ad-b89d-a9d4cb106dc9" name="Default Changelist" comment="" />
+    <list default="true" id="98403987-c8f4-40ad-b89d-a9d4cb106dc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../datamove/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datamove/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../datamove/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../end/save/zheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bJ5c32Aq9hae7AcXxoHPtOLfdK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -141,7 +152,9 @@
       <workItem from="1590233938675" duration="992000" />
       <workItem from="1590302323199" duration="9000" />
       <workItem from="1590395654868" duration="1494000" />
-      <workItem from="1590585405800" duration="5404000" />
+      <workItem from="1590585405800" duration="7170000" />
+      <workItem from="1590846604889" duration="2921000" />
+      <workItem from="1591154195109" duration="44000" />
     </task>
     <servers />
   </component>
@@ -153,34 +166,39 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="891" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1588337496806" />
-    <state width="610" height="220" key="GridCell.Tab.0.bottom" timestamp="1590649146645">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="610" height="220" key="GridCell.Tab.0.bottom" timestamp="1590669630423">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
     <state width="610" height="220" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1590649146645" />
-    <state width="610" height="220" key="GridCell.Tab.0.center" timestamp="1590649146644">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="610" height="220" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1590669630423" />
+    <state width="610" height="220" key="GridCell.Tab.0.center" timestamp="1590669630420">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
     <state width="610" height="220" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1590649146644" />
-    <state width="610" height="220" key="GridCell.Tab.0.left" timestamp="1590649146643">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="610" height="220" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1590669630420" />
+    <state width="610" height="220" key="GridCell.Tab.0.left" timestamp="1590669630419">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
     <state width="610" height="220" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1590649146643" />
-    <state width="610" height="220" key="GridCell.Tab.0.right" timestamp="1590649146645">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="610" height="220" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1590669630419" />
+    <state width="610" height="220" key="GridCell.Tab.0.right" timestamp="1590669630421">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1183" height="328" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588589672593" />
     <state width="610" height="220" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1590649146645" />
+    <state width="610" height="220" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1590669630421" />
     <state width="234" height="498" key="HiddenNamespacesPopup" timestamp="1590644565927">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="234" height="498" key="HiddenNamespacesPopup/0.23.1440.825@0.23.1440.825" timestamp="1590644565927" />
-    <state x="733" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1590302324053">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="733" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1590846652910">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="733" y="292" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1590302324053" />
+    <state x="733" y="293" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1590846652910" />
     <state x="981" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1588340643052">
       <screen x="0" y="23" width="1440" height="823" />
     </state>

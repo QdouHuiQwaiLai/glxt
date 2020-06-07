@@ -1,0 +1,32 @@
+Docker:
+安装:
+ sudo apt-get update
+ sudo apt-get install -y docker.io
+ systemctl start docker
+ systemctl enable docker
+
+新建网卡: docker network create -d bridge ldl
+
+build Dockerfile: docker build -t end .
+
+删除没有容器: docker rm $(docker ps -a -q)
+删除none的镜像: docker images|grep none|awk '{print $3}'|xargs docker rmi
+docker pull mongo:latest
+docker pull redis:latest
+启动：
+ docker run -p 27017:27017  --network ldl --name mongo -d mongo
+ docker run -p 8080:8080 --name end --network ldl  -v /Users/ldl/Desktop/temp:/temp -d end
+ docker run -p 80:80 --name front --network ldl  -d front
+ docker run -p 8000:8000 --name imtepr --network ldl  -v /Users/ldl/Desktop/temp:/temp -d imtepr
+ docker run -p 6379:6379 --name redis  --network ldl -d redis
+
+
+服务器：
+/root/temp
+docker run -p 8080:8080 --name end --network ldl  -v /root/temp:/temp -d end
+docker run -p 8000:8000 --name imtepr --network ldl  -v /root/temp:/temp -d imtepr
+
+
+本地要修改：
+ End/model
+

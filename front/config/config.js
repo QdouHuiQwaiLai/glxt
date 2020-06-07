@@ -96,6 +96,7 @@ export default defineConfig({
                   path: '/account/people',
                   name: 'people',
                   icon: 'usergroupAdd',
+                  authority: ['admin'],
                   component: './account/people',
                 },
                 {

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98de1fce-3d1c-4dc6-ac80-53c9164a1e8d" name="Default Changelist" comment="" />
+    <list default="true" id="98de1fce-3d1c-4dc6-ac80-53c9164a1e8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imtepr/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/school_2018.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/school_2018.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/school_2019.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/school_2019.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../end/save/zheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imtepr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../imtepr/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bClN2Hm1TyMHHVroxY91AGZR9S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +38,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/output" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.mainline">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -143,6 +162,9 @@
       <workItem from="1590151089509" duration="12000" />
       <workItem from="1590225457358" duration="4461000" />
       <workItem from="1590385373461" duration="5933000" />
+      <workItem from="1590846662394" duration="269000" />
+      <workItem from="1591154194903" duration="46000" />
+      <workItem from="1591427778929" duration="583000" />
     </task>
     <servers />
   </component>

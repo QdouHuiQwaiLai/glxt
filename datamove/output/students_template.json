@@ -1,0 +1,19 @@
+{
+  "originalId": "1900001",
+  "gender": 1,
+  "province": 21,
+  "branch": 4,
+  "plan": 0,
+  "language": 0,
+  "political": 12,
+  "feature": 0,
+  "profession": 11,
+  "flag": true,
+  "volunteer": "1",
+  "provolunteer": "1",
+  "score": 269.0,
+  "feascore": 269.0,
+  "mathsocre": null,
+  "foreignscore": null,
+  "line": false
+}
