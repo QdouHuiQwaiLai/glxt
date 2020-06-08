@@ -67,7 +67,7 @@ func Upload(c *gin.Context) {
 	studentsFileName := fmt.Sprintf("%s_%s.json",
 		strconv.FormatInt(time.Now().Unix(), 10), util.GetRandomString(8))
 	// 存储文件
-	err = c.SaveUploadedFile(student, fmt.Sprintf("%s%s", "/temp/", studentsFileName)); if err != nil {
+	err = c.SaveUploadedFile(student, fmt.Sprintf("%s%s", "/Users/ldl/Desktop/lunwen/code/imtepr/", studentsFileName)); if err != nil {
 		SendResponse(c, errno.InternalServerError, nil)
 		return
 	}

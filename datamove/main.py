@@ -33,28 +33,30 @@ def getLine(cursor):
   print(line)
   return line
 
-getLine(pymssql.connect(serverName , userName , passWord, "Shoppp").cursor())
+# getLine(pymssql.connect(serverName , userName , passWord, "Shoppp").cursor())
 # getLine(cursor)
-# saveSchoolData(
-#   pymssql.connect(serverName , userName , passWord, "Shopp").cursor(),
-#   "重庆科技学院", 2018
-# )
+
+
+saveSchoolData(
+  pymssql.connect(serverName , userName , passWord, "Shopp").cursor(),
+  "重庆科技学院", 2018
+)
+
+saveSchoolData(
+  pymssql.connect(serverName , userName , passWord, "Shoppp").cursor(),
+  "重庆科技学院", 2019
+)
 #
-# saveSchoolData(
-#   pymssql.connect(serverName , userName , passWord, "Shoppp").cursor(),
-#   "重庆科技学院", 2019
-# )
-# #
-# #
-# saveStudentData(
-#   pymssql.connect(serverName , userName , passWord, "Shopp").cursor(),
-#   "重庆科技学院", 2018, getLine( pymssql.connect(serverName , userName , passWord, "Shopp").cursor())
-# )
 #
-# saveStudentData(
-#   pymssql.connect(serverName , userName , passWord, "Shoppp").cursor(),
-#   "重庆科技学院", 2019, getLine( pymssql.connect(serverName , userName , passWord, "Shoppp").cursor())
-# )
+saveStudentData(
+  pymssql.connect(serverName , userName , passWord, "Shopp").cursor(),
+  "重庆科技学院", 2018, getLine( pymssql.connect(serverName , userName , passWord, "Shopp").cursor())
+)
+
+saveStudentData(
+  pymssql.connect(serverName , userName , passWord, "Shoppp").cursor(),
+  "重庆科技学院", 2019, getLine( pymssql.connect(serverName , userName , passWord, "Shoppp").cursor())
+)
 
 
 
